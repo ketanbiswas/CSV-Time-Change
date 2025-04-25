@@ -1,6 +1,8 @@
 # Prerequisites
 install thinker  
-```sudo apt-get install python3-tk```
+```
+sudo apt-get install python3-tk
+```
 # CSV-Time-Change
 Change the csv file time as  required  
 shift the hh, mm, ss in positive or negetive  
